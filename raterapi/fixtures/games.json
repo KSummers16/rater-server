@@ -1,0 +1,47 @@
+[
+  {
+    "model": "raterapi.game",
+    "pk": 1,
+    "fields": {
+      "user_id": 1,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "description": "An open-air adventure in a vast world",
+      "designer": "Nintendo EPD",
+      "released": "2017-03-03",
+      "player_number": 1,
+      "play_time": 60,
+      "age_recommendation": "Everyone 10+",
+      "categories": []
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 2,
+    "fields": {
+      "user_id": 2,
+      "title": "Red Dead Redemption 2",
+      "description": "An epic tale of outlaw life",
+      "designer": "Rockstar Games",
+      "released": "2018-10-26",
+      "player_number": 1,
+      "play_time": 80,
+      "age_recommendation": "Mature 17+",
+      "categories": []
+    }
+  },
+  {
+    "model": "raterapi.game",
+    "pk": 3,
+    "fields": {
+      "user_id": 3,
+      "title": "Civilization VI",
+      "description": "Build an empire to stand the test of time",
+      "designer": "Firaxis Games",
+      "released": "2016-10-21",
+      "player_number": 1,
+      "play_time": 120,
+      "age_recommendation": "Everyone 10+",
+      "categories": []
+    }
+  }
+]
